@@ -10,3 +10,7 @@
  
  - git을 확인하는 status
  - git 용어: init, status, add, commit, log
+
+ ##학습 소감 한 줄
+
+ - 알듯 하면서 모를듯, 새로운 용어가 많아 복잡하다
